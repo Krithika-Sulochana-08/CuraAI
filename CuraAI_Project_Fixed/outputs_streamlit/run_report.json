@@ -1,0 +1,15 @@
+{
+  "study_id": "CUR-DEM-001",
+  "generated_at": "2025-09-16T03:08:36Z",
+  "domains": [
+    "DM",
+    "AE",
+    "VS",
+    "EX"
+  ],
+  "n_queries": 27,
+  "by_severity": {
+    "MAJOR": 21,
+    "MINOR": 6
+  }
+}
